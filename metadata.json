@@ -1,0 +1,8 @@
+{
+  "name": "The Last Alibi - AI Detective Mystery",
+  "description": "A 2D browser-based AI detective murder mystery game. Interrogate suspects, inspect crime scene evidence, detect contradictions, and unmask the killer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

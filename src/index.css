@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-cinzel: 'Cinzel', serif;
+  --font-editorial: 'Newsreader', Georgia, serif;
+  --font-typewriter: 'Special Elite', monospace;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Hide scrollbar for clean UI navigation carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
